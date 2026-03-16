@@ -1,0 +1,11 @@
+path: ./datasets/cardboard_model
+train: .  
+val: .    
+
+names:
+  0: Zone_A
+  1: Zone_B
+  2: Zone_C
+  3: Zone_AB
+  4: Zone_BC
+  5: Zone_AC
